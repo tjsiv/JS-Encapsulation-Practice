@@ -2,15 +2,22 @@
   "cart": [
     {
       "id": 1,
-      "name": "Avery's Sandwich",
-      "bread": "Sourdough",
+      "name": "Timmy's Sandwich",
+      "bread": "White",
       "ingredients": [
-        "Cheddar Cheese",
-        "Mayo",
-        "Ham",
         "Bacon",
         "Lettuce",
-        "Tomatoes"
+        "Onions",
+        "American Cheese*",
+        "Turkey"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Unnamed",
+      "bread": "White",
+      "ingredients": [
+        "Ham"
       ]
     }
   ],
